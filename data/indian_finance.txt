@@ -1,0 +1,53 @@
+KYC (Know Your Customer) is mandatory identity verification for financial accounts in India.
+
+A Demat Account holds shares electronically and is required for stock market trading.
+
+Savings Accounts allow individuals to deposit money while earning interest.
+
+UPI enables instant digital payments between bank accounts via mobile apps.
+
+PAN is required for investments and tax reporting.
+
+Aadhaar is commonly used for identity verification in banking.
+
+RBI regulates banks and monetary policy in India.
+
+SEBI regulates stock markets and protects investors.
+
+Minimum balance rules apply to many Indian savings accounts.
+
+Capital Gains Tax applies to profits from selling investments.
+
+ELSS mutual funds provide tax deductions under Section 80C.
+
+FDIC-like insurance in India protects bank deposits up to a fixed limit.
+
+NEFT enables bank transfers during working hours.
+
+RTGS allows real-time high-value fund transfers.
+
+IMPS provides instant 24/7 money transfers.
+
+Nomination facility assigns beneficiary for accounts.
+
+Recurring deposits allow monthly savings.
+
+Form 16 summarizes salary income and tax deducted.
+
+TDS is tax deducted at source on income.
+
+GST applies to goods and services transactions.
+
+NPS supports retirement savings.
+
+PPF offers long-term tax-free investment.
+
+Senior citizen savings scheme provides higher interest.
+
+RBI repo rate affects loan interest.
+
+SEBI mandates mutual fund disclosures.
+
+ATM withdrawal limits vary by bank.
+
+Cheque clearing uses CTS system.

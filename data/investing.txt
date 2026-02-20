@@ -1,0 +1,53 @@
+SIP allows investors to invest fixed amounts regularly in mutual funds.
+
+Lump Sum investing means investing a large amount at once.
+
+Equity funds invest mainly in stocks for higher growth.
+
+Debt funds invest in bonds for stable returns.
+
+ELSS funds offer tax benefits and equity exposure.
+
+Asset Allocation balances equity, debt, and cash investments.
+
+Risk Appetite determines suitable investment choices.
+
+NAV shows per-unit mutual fund value.
+
+Expense Ratio represents fund management cost.
+
+Compounding grows wealth over long periods.
+
+Rebalancing adjusts portfolio proportions.
+
+Long-term investing reduces market volatility impact.
+
+Index funds track benchmark indices.
+
+Active funds aim to beat market returns.
+
+Passive funds replicate index performance.
+
+Portfolio beta measures market sensitivity.
+
+Alpha represents excess returns.
+
+Sharpe ratio measures risk-adjusted return.
+
+Exit load applies on early redemption.
+
+Lock-in period restricts withdrawals.
+
+Dividend reinvestment grows holdings.
+
+Systematic withdrawal provides regular income.
+
+Goal-based investing aligns money with life goals.
+
+Emergency corpus equals 6 months expenses.
+
+Rupee cost averaging lowers SIP risk.
+
+Market timing attempts entry at lows.
+
+Buy-and-hold favors long-term gains.
