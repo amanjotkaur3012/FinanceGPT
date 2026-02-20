@@ -1,1 +1,54 @@
+Stocks represent ownership in a company. Shareholders benefit from price appreciation and dividends.
+
+Bonds are debt instruments issued by governments or companies. Investors earn fixed interest and receive principal later.
+
+Mutual Funds pool money from many investors and invest across diversified assets.
+
+ETFs are exchange-traded funds that track indices or sectors and trade like stocks.
+
+Equity refers to ownership value after liabilities are deducted.
+
+Dividends are profit distributions paid to shareholders.
+
+Market Capitalization equals share price multiplied by total shares outstanding.
+
+Portfolio means a collection of financial investments.
+
+Diversification reduces risk by spreading investments.
+
+Inflation decreases purchasing power over time.
+
+Interest Rate is the cost of borrowing or reward for saving.
+
+Liquidity measures how quickly assets convert to cash.
+
+Assets include cash, property, stocks, and investments owned.
+
+Liabilities are loans or obligations that must be repaid.
+
+Net worth is calculated as assets minus liabilities.
+
+Bull markets show rising prices and investor confidence.
+
+Bear markets reflect falling prices and negative sentiment.
+
+Blue-chip companies are financially strong market leaders.
+
+Growth stocks focus on expansion rather than dividends.
+
+Value stocks trade below estimated intrinsic value.
+
+ROI measures profit earned relative to investment cost.
+
+EPS shows company profit per outstanding share.
+
+P/E ratio compares stock price with earnings.
+
+Treasury bills are short-term government securities.
+
+Fixed deposits provide guaranteed bank returns.
+
+Volatility measures market price swings.
+
+Financial literacy improves money decision-making.
 
